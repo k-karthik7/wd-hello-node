@@ -1,4 +1,4 @@
 const hello=()=>{
-	console.log("Hello Node.js-1");
+	console.log("Hello Node.js!");
 }
 hello();
